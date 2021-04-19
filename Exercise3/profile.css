@@ -1,0 +1,13 @@
+html{
+    background-color: rgb(116, 114, 131);
+    font-family: sans-serif;
+    color: floralwhite;
+}
+.headings{
+    font-size: 40px;
+    background-image: url(background.png);
+    background-size: contain;
+}
+p{
+    font-size: 26px;
+}

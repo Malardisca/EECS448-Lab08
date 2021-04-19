@@ -3,6 +3,13 @@ html{
     font-family: sans-serif;
     color: floralwhite;
 }
+/*
+body
+{
+ background-image: url(background.png); background-size: 100%;
+ background-repeat: no-repeat; background-attachment: fixed;
+}
+*/
 .headings{
     font-size: 40px;
     background-image: url(background.png);
@@ -10,4 +17,14 @@ html{
 }
 p{
     font-size: 26px;
+}
+a
+{
+ background-color: blue;
+ color: red;
+}
+a:hover
+{
+ background-color: red;
+ color: blue
 }
